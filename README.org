@@ -1,8 +1,6 @@
 #+title: WALLPAPERS
 #+DESCRIPTION: Store some wallpapers I liek in this repo
 
-* WALLPAPERS
-
 
 ** EXAMPLES
 
