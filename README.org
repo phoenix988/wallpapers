@@ -4,8 +4,13 @@
 
 ** EXAMPLES
 
+*** ROSE PINE LEAFS
 [[file:./rose-pine/leafy.png]]
+
+*** NATURE
 [[file:./Nature/lachlan-thompson-SwgiWNurMuM-unsplash.jpg]]
+
+*** NORDIC WALL
 [[file:./Nord/nordic-wall.jpg]]
 
 
