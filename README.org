@@ -1,0 +1,15 @@
+#+title: WALLPAPERS
+#+DESCRIPTION: Store some wallpapers I liek in this repo
+
+* WALLPAPERS
+
+
+** EXAMPLES
+
+[[file:./rose-pine/leafy.png]]
+[[file:./Nature/lachlan-thompson-SwgiWNurMuM-unsplash.jpg]]
+[[file:./Nord/nordic-wall.jpg]]
+
+
+** CREDITS
+Credits to whoever that made these wallpapers I store in this repo.
