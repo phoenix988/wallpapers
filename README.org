@@ -11,7 +11,7 @@
 [[file:./Nature/lachlan-thompson-SwgiWNurMuM-unsplash.jpg]]
 
 *** NORDIC WALL
-[[file:./Nord/nordic-wall.jpg]]
+[[file:./nord/nordic-wall.jpg]]
 
 
 ** CREDITS
